@@ -5,7 +5,7 @@ menuPriority=000
 To the central shitposting hub of Tactical Shitposting Operations!
 
 ### Who we are?
-We are a somehow small group of creatures that crawled out of the ashes of a previous community. Since then we have grown a bit, met new people.
+We are a somehow small group of creatures that crawled out of the deepest caves of the internet. Since then we have grown a bit, met new people.
 
 We are trying to host some game nights now and then, but, as of the moment i type this, we have no scheudle for that. 
 
