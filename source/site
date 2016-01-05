@@ -14,8 +14,11 @@ template="template.html"
 staticFolder="static/"
 newsFolder="news/"
 markdownFolder="sites/"
+menuFolder="menu/"
 
 #file modificators
 fileReown=true
 fileOwner="www-data:www-data"
 filePermissions="775"
+
+#hahahahah 

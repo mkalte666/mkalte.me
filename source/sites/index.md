@@ -1,5 +1,5 @@
 title="Home"
-menuPosition=000
+menuPriority=000
 
 #Welcome
 To the central shitposting hub. Were working on it!
