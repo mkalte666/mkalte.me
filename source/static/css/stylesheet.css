@@ -4,11 +4,18 @@ body {
 }
 
 .menu {
+    z-index: 1;
+    top: 80px;
     position: fixed;
     width: 800;
     left: 50%;
     margin-left: -400px;
     border: 1px solid black;
+}
+
+.menu img {
+    z-index: 0;
+    margin-top: -81px;
 }
 
 .menu ul {
@@ -46,14 +53,15 @@ a:hover {
 
 
 .content {
-    position: absolute;
-    top: 30px;
-    width: 800;
+    
+    position: relative;
+    top: 130px;
+    width: 798;
     left: 50%;
-    margin-left: -400px;
+    margin-left: -399px;
     margin-top: 30px;
     background-color: #222222;
-    min-height: 80%;
+    min-height: 40%;
     border: 1px solid black;
 }
 
@@ -72,6 +80,12 @@ a:hover {
     
 }
 
+.content h3 {
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
 .news {
     background-color: #292929;
     border: 1px solid black;
@@ -84,4 +98,19 @@ a:hover {
     border: 1px solid black;
     margin-top: 0px;
 }
+
+.footer {
+    text-align: center;
+    position: relative;
+    top: 110px;
+    width: 800;
+    left: 50%;
+    margin-left: -400px;
+    margin-top: 30px;
+    background-color: #222222;
+    border: 1px solid black;
+    color: #aaa;
+}
+
+
 
