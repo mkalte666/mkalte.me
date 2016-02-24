@@ -5,9 +5,13 @@ title="TS-OPS"
 
 #news stuff
 hasNews=true
-newsLimit=5
+newsLimit=2
 newsPrefix=
 newsSuffix=
+newsOrder="asc"
+
+
+#site template
 template="template.html"
 
 #folders

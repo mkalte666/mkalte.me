@@ -15,5 +15,5 @@ We look forward to see you join us to intensify the shitposting!
 
 #News
 <div class="news">
-\$news
+\$newsLimited
 </div>
