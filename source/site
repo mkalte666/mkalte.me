@@ -1,7 +1,7 @@
 #the site definition is, in fact, a bash script. it should be made of key-value pairs, and every required one is shown in this file. 
 
 #general stuff
-title="TS-OPS"
+title="mkalte.me"
 
 #news stuff
 hasNews=true
