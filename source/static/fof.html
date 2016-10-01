@@ -1,0 +1,37 @@
+<!DOCTYPE html> 
+<html>
+	<head>
+		<title>YOU ARE FACING THE REGIS</title>
+	</head>
+	<body>
+		<div align="center">
+			<p><h1>REGI OS 6.0 "Vista"</h1></p>
+			<p><h2>TREE ACCESS BARRIER</h2></p>
+			<p>Please enter your name</p>
+		</div>
+		<div align="center"><form action="javascript:testAccess();">
+			<p><input type="text" width="140px" name="nameInput"/></p>
+			<p><button type="submit">Request access</button></p>
+		</form></div>
+		
+		<script type="text/javascript">
+			const regiRegex = /^([Mm]ew(two){0,1}|[Aa]rceus|[Rr]egi(ice|rock|steel))\s*$/g;
+			function testAccess()
+			{
+				let nameinput = document.getElementsByName("nameInput")[0].value;
+				if(nameinput === "") {
+					return;
+				}
+				if ((m = regiRegex.exec(nameinput)) !== null) {
+					alert("Welcome " + nameinput + " to the Tree of Beginning. Enjoy your stay!");
+					document.location.href = "http://pm1.narvii.com/5783/f014b5c8882c44029bced5d7183111790e1396aa_hq.jpg";
+				} else {
+					alert("Intruder Detected\n R-R-REGI-ICE");
+					document.location.href = "https://www.youtube.com/watch?v=pSMQYDYBALY&t=22s";
+				}
+				return false;
+			}
+		</script>
+	</body>
+
+</html>
