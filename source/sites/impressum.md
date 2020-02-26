@@ -10,6 +10,8 @@ Junkersstraße 3
 
 38108 Braunschweig
 
+Telefon: +49(0) 176 270 678 23
+
 E-Mail: malte.kiessling@mkalte.me
 
 ### Haftung für Inhalte
